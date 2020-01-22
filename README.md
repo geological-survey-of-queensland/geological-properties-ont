@@ -8,15 +8,16 @@ Ontological properties of a Geological Property are described using a combinatio
 ## Online
 This ontology will soon be visible online at its namespace URI location:
 
-* <http://linked.data.gov.au/def/geoprop>
+* <http://linked.data.gov.au/def/geoprops>
 
 
 ## Overview
-At a high level, the classes of this ontology are shown in Figure 1.
+These diagrams overview this ontology and its relations to others such as QUDT.
 
-![](images/overview.svg)
-**Figure 1**: A diagrammatic overview of the top-level classes in this ontology
+![](images/geo-qudt.svg)
+**Figure 1**: A the Geoscience classes of QUDT
 
+*more to come!*
 
 ## Data
 Data that conforms to this ontology - instances of Geological Properties - will be published by the [Geological Survey of Queensland](http://linked.data.gov.au/org/gsq) in the first half of 2020.
@@ -33,7 +34,7 @@ The content of this ontology is licensed for use under the [Creative Commons 4.0
 ## Citation
 If you wish to cite this profile, please do so like this:
 
-Geological Survey of Queensland (2019) "Geological Properties Ontology". An OWL ontology defining classes of observable property relevant Geologic Features. http://linked.data.gov.au/def/geoprop
+Geological Survey of Queensland (2019) "Geological Properties Ontology". An OWL ontology defining classes of observable property relevant Geologic Features. http://linked.data.gov.au/def/geoprops
 
 
 ## Contacts

@@ -1,0 +1,10 @@
+# Mac
+.DS_Store
+
+# Protege
+catalog-*
+
+# TopBraid
+.project
+
+
